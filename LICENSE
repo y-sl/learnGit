@@ -1,0 +1,4 @@
+git log
+git reflog
+cat filename
+git status
